@@ -1,0 +1,10 @@
+{
+    "java.dependency.packagePresentation": "hierarchical",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jre-stubs.jar",
+        "libs/jre-stubs.jar",
+        "libs/joml-1.10.5.jar",
+        "libs/joml-1.10.5-sources.jar"
+    ]
+}
